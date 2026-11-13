@@ -1,0 +1,51 @@
+# Exercise 04: Network Troubleshooting Using Command Prompt
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Objective
+To understand Command Prompt commands used to investigate DNS resolution, test network connectivity and troubleshoot basic network configuration problems.
+
+## 2. Scenario
+An IT support technician needs to investigate network problems affecting a Windows computer and identify possible connectivity or DNS issues.
+
+This was a simulated training exercise.
+
+## 3. Commands Learned
+
+| Command | Function |
+|---|---|
+| `ping` | Tests network connectivity |
+| `tracert` | Displays the route to a network destination |
+| `nslookup` | Investigates DNS resolution |
+| `ipconfig /flushdns` | Clears the local DNS resolver cache |
+| `ipconfig /release` | Releases DHCP-assigned IP configuration |
+| `ipconfig /renew` | Requests a new DHCP IP configuration |
+
+## 4. Troubleshooting Procedure
+1. Open Command Prompt.
+2. Use `ipconfig` to inspect the computer's network configuration.
+3. Use `ping` to test connectivity to the default gateway.
+4. Use `tracert` to examine the network route to a destination.
+5. Use `nslookup` to investigate domain name resolution.
+6. Use `ipconfig /flushdns` when clearing the DNS cache is appropriate.
+7. Use `ipconfig /release` and `ipconfig /renew` when investigating DHCP configuration problems.
+8. Verify network connectivity after troubleshooting.
+
+## 5. Results
+The exercise demonstrated how built-in Windows commands can assist with identifying basic network connectivity, DNS and DHCP problems.
+
+The results are based on simulated training scenarios. No actual network troubleshooting results are claimed.
+
+## 6. Lessons Learned
+- `ping` tests connectivity between devices.
+- `tracert` displays the network path to a destination.
+- `nslookup` investigates DNS resolution.
+- `ipconfig /flushdns` clears cached DNS information.
+- `ipconfig /release` releases DHCP configuration.
+- `ipconfig /renew` requests fresh DHCP configuration.
+
+## 7. Conclusion
+This exercise improved my understanding of basic Windows network troubleshooting commands and their importance in IT support and network administration.
+
+**Note:** This was a simulated training exercise.
