@@ -1,0 +1,47 @@
+# Exercise 02: System Information and Network Commands
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Objective
+To understand Windows Command Prompt commands used to retrieve computer information and inspect network configuration.
+
+## 2. Scenario
+An IT support technician needs to identify a computer, inspect its network settings and test connectivity to another network device.
+
+This was a simulated training exercise.
+
+## 3. Commands Learned
+
+| Command | Function |
+|---|---|
+| `ipconfig` | Displays basic IP configuration |
+| `ipconfig /all` | Displays detailed network configuration |
+| `hostname` | Displays the computer name |
+| `ping` | Tests network connectivity |
+| `systeminfo` | Displays detailed system information |
+
+## 4. Practical Procedure
+1. Open Command Prompt.
+2. Use `hostname` to identify the computer name.
+3. Use `ipconfig` to inspect the IP address, subnet mask and default gateway.
+4. Use `ipconfig /all` to inspect detailed network information, including DNS servers and MAC address.
+5. Use `ping` to test connectivity to an authorised network destination.
+6. Use `systeminfo` to retrieve detailed Windows system information.
+
+## 5. Results
+The exercise demonstrated how Command Prompt can be used to inspect computer details, retrieve network configuration and perform basic connectivity checks.
+
+The results are based on simulated training scenarios. No actual command execution results are claimed.
+
+## 6. Lessons Learned
+- `ipconfig` displays basic IP configuration.
+- `ipconfig /all` provides detailed network information.
+- `hostname` identifies the computer name.
+- `ping` helps test network connectivity.
+- `systeminfo` provides detailed operating system and hardware information.
+
+## 7. Conclusion
+This exercise improved my understanding of Windows system information and network diagnostic commands. These commands are useful in IT support and basic network troubleshooting.
+
+**Note:** This was a simulated training exercise.
