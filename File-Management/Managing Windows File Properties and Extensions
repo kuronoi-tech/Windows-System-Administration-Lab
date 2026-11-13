@@ -1,0 +1,47 @@
+# Exercise 03: Managing Windows File Properties and Extensions
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand Windows file properties and extensions and learn how to identify and manage different file types.
+
+## 2. Scenario Description
+An employee reported being unable to open an important company document. The investigation focused on identifying the file extension, checking its actual format and determining whether the file had been incorrectly renamed or hidden.
+
+## 3. Tools Used
+- Windows 11 File Explorer
+- File Properties
+- File Name Extensions
+- Hidden Items
+- Microsoft Word
+
+## 4. Investigation Procedure
+1. Opened File Explorer.
+2. Enabled File Name Extensions under View > Show.
+3. Inspected the document's extension.
+4. Identified that renaming a file extension does not convert its actual format.
+5. Checked the Hidden Items setting to investigate potentially hidden files.
+6. Recommended using an appropriate application to convert the document if necessary.
+7. Verified the file and documented the findings.
+
+## 5. Results
+The simulated investigation demonstrated how to identify file formats, display extensions and locate hidden files.
+
+It also established that changing a filename extension does not automatically convert the file into another format.
+
+## 6. Lessons Learned
+- Meaning of common file extensions.
+- How to display file extensions in Windows 11.
+- Difference between renaming and converting files.
+- How to display hidden files.
+- Importance of checking file properties before troubleshooting.
+
+## 7. Conclusion
+This simulated exercise improved my understanding of Windows file properties, file extensions and basic file troubleshooting.
+
+**Note:** This was a simulated training exercise. No actual company documents were modified.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
