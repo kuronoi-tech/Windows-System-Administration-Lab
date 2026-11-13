@@ -1,0 +1,35 @@
+# Exercise 04: Monitoring and Documenting Windows Services
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Objective
+To understand how to monitor Windows services, identify service problems and maintain proper maintenance records.
+
+## 2. Scenario
+An IT administrator is responsible for monitoring Windows services to ensure that important system functions remain available.
+
+This was a simulated training exercise. No actual service monitoring or configuration changes were performed.
+
+## 3. Tools Used
+- Services Manager (`services.msc`)
+- Event Viewer (`eventvwr.msc`)
+- Windows PowerShell (`Get-Service`)
+
+## 4. Monitoring Procedure
+1. Open Services Manager and review installed services.
+2. Check service statuses, including Running and Stopped.
+3. Use Event Viewer to investigate service-related warnings and errors.
+4. Use PowerShell's `Get-Service` command to display service names and statuses.
+5. Identify unexpected service failures and investigate possible causes.
+6. Record service problems, actions taken and troubleshooting results.
+
+## 5. Results
+The exercise demonstrated how Windows administration tools can help monitor service availability and investigate service-related problems.
+
+The results are based on simulated learning scenarios.
+
+## 6. Lessons Learned
+- Monitoring helps detect service problems early.
+- Services Manager provides a graphical view of service statuses.
+- Event Viewer helps investigate service
