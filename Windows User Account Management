@@ -1,0 +1,61 @@
+# Exercise 02: Windows User Account Management
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+
+To understand Windows user account management, create appropriate account configurations and apply the principle of least privilege.
+
+## 2. Scenario Description
+
+A company hired a new employee who required access to a Windows 11 computer. The employee needed to use applications and create documents but did not require administrative privileges.
+
+## 3. Tools Used
+
+- Windows 11 Settings
+- Accounts Management
+- Other Users
+- User Account Settings
+
+## 4. Procedure
+
+1. Identified the appropriate account type for the employee.
+2. Selected a Standard User account.
+3. Navigated to Settings > Accounts > Other users.
+4. Used the Add account option to create a separate local account.
+5. Changed the account type to Standard User.
+6. Verified the account type.
+7. Planned a sign-in and document creation test.
+
+## 5. Results
+
+The simulated configuration assigned the employee a Standard User account rather than unnecessary Administrator privileges.
+
+The proposed verification included signing in with the test account, opening an application and creating a document.
+
+## 6. Security Considerations
+
+- Apply the principle of least privilege.
+- Avoid giving ordinary employees unnecessary administrator permissions.
+- Configure file permissions separately to protect sensitive company information.
+- Use separate accounts for different users.
+- Verify account configuration after making changes.
+
+## 7. Lessons Learned
+
+- Difference between Administrator and Standard User accounts.
+- How to navigate Windows account settings.
+- How to add a local Windows user.
+- How to change account types.
+- Importance of account permissions and verification.
+
+## 8. Conclusion
+
+This simulated exercise improved my understanding of Windows user account management, account permissions and basic access control.
+
+**Note:** This was a simulated training exercise. No actual company account was created or modified.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
