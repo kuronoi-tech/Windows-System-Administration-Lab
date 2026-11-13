@@ -1,0 +1,38 @@
+# Exercise 06: Scenario 03 — Working with Windows Processes and Services
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Introduction
+This exercise focuses on using PowerShell to inspect and manage Windows processes and services.
+
+**Note:** This was a simulated training exercise. No actual processes or services were started or stopped.
+
+## 2. Objectives
+- Understand Windows processes and services.
+- Identify commands used to inspect running processes.
+- Understand how to start and stop processes and services.
+- Recognise the importance of verifying system operations before making changes.
+
+## 3. Commands Covered
+
+| Command | Purpose |
+|---|---|
+| `Get-Process` | Displays running processes. |
+| `Stop-Process` | Stops a running process. |
+| `Get-Service` | Displays Windows services. |
+| `Start-Service` | Starts a Windows service. |
+
+## 4. Key Lessons
+- Processes represent running applications and system tasks.
+- Services are background components that support Windows and applications.
+- PowerShell provides commands for monitoring and managing both.
+- Stopping an important process or service may disrupt system operations.
+- Administrative permissions may be required for certain management actions.
+
+## 5. Conclusion
+The exercise improved my understanding of Windows process and service management using PowerShell.
+
+**Scenario status:** Completed  
+**Assessment score:** 5/5  
+**Training classification:** Simulated practical exercise.
