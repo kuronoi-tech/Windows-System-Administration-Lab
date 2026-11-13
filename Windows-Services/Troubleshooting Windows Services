@@ -1,0 +1,44 @@
+# Exercise 04: Troubleshooting Windows Services
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Objective
+To understand how to identify and troubleshoot common Windows service problems using built-in Windows administration tools.
+
+## 2. Scenario
+A user reports that an application is not functioning correctly because a required Windows service keeps stopping or fails to start.
+
+This was a simulated training exercise. No actual Windows services were modified.
+
+## 3. Tools Used
+- Services Manager (`services.msc`)
+- Event Viewer (`eventvwr.msc`)
+- Windows service Properties and Dependencies
+
+## 4. Troubleshooting Procedure
+1. Open Services Manager and locate the affected service.
+2. Check its current status and identify whether it is running or stopped.
+3. Review relevant error messages using Event Viewer.
+4. Check the service dependencies to identify other required services.
+5. Investigate the underlying cause before making authorised changes.
+6. Verify that the service starts successfully.
+7. Test the application or feature that depends on the service.
+8. Document the problem, investigation, solution and outcome.
+
+## 5. Results
+The exercise demonstrated how Windows administration tools can help identify service failures, investigate dependencies and verify possible solutions.
+
+The results are based on simulated troubleshooting scenarios, not changes made to a live system.
+
+## 6. Lessons Learned
+- Event Viewer helps identify system and application errors.
+- Windows services may depend on other services.
+- Repeatedly restarting a failing service does not necessarily solve the underlying problem.
+- Troubleshooting should focus on identifying the root cause.
+- Administrators should verify and document every solution.
+
+## 7. Conclusion
+The exercise improved my understanding of Windows service troubleshooting and the importance of using system logs, checking dependencies and verifying solutions before closing an IT support issue.
+
+**Note:** This was a simulated practical learning exercise
