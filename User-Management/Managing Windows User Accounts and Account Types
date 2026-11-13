@@ -1,0 +1,58 @@
+# Exercise 02: Managing Windows User Accounts and Account Types
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand Windows user account types and learn how to manage employee access based on their responsibilities.
+
+## 2. Scenario Description
+A company had three employees sharing a Windows 11 computer. Each employee required different access privileges.
+
+- Employee 1 required normal access to applications and documents.
+- Employee 2 required administrative privileges to install approved software and manage system settings.
+- Employee 3 was leaving the company and needed their account access revoked.
+
+## 3. Tools Used
+- Windows 11 Settings
+- User Account Management
+- Other Users
+- Computer Management
+
+## 4. Account Management Procedure
+1. Identified the access requirements of each employee.
+2. Assigned Employee 1 a Standard User account.
+3. Assigned Employee 2 an Administrator account based on authorised responsibilities.
+4. Disabled or revoked Employee 3's account access according to company policy.
+5. Verified the account types and access settings.
+6. Tested the appropriate permissions.
+7. Documented the account changes.
+
+## 5. Results
+The simulated exercise demonstrated how different account types can be assigned according to employee responsibilities.
+
+The proposed configuration provided ordinary access to one employee, administrative privileges to another and revoked access for the departing employee.
+
+## 6. Security Considerations
+- Apply the principle of least privilege.
+- Restrict administrator accounts to authorised personnel.
+- Revoke access when employees leave.
+- Preserve company files and records according to policy.
+- Never share administrator passwords.
+- Verify account permissions after making changes.
+
+## 7. Lessons Learned
+- Difference between Standard User and Administrator accounts.
+- How to manage employee access.
+- Importance of account security.
+- How to verify account configurations.
+- Importance of documenting administrative changes.
+
+## 8. Conclusion
+This simulated exercise improved my understanding of Windows user account management, access control and basic system administration procedures.
+
+**Note:** This was a simulated training exercise. No actual employee accounts were modified.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
