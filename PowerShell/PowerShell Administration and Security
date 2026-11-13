@@ -1,0 +1,37 @@
+# Exercise 06: Scenario 05 — PowerShell Administration and Security
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Introduction
+This exercise focuses on PowerShell administration, command discovery and security practices when working with scripts.
+
+**Note:** This was a simulated training exercise. No actual security settings or execution policies were changed.
+
+## 2. Objectives
+- Identify available PowerShell commands.
+- Understand how to identify the current Windows user.
+- Understand PowerShell execution policies.
+- Recognise risks associated with unknown scripts.
+- Apply basic security practices during system administration.
+
+## 3. Commands and Concepts Covered
+
+| Command / Concept | Purpose |
+|---|---|
+| `Get-Command` | Finds available PowerShell commands. |
+| `whoami` | Displays the current user identity. |
+| Execution Policies | Control conditions under which PowerShell scripts run. |
+| Least Privilege | Ensures users and processes receive only necessary permissions. |
+
+## 4. Key Lessons
+- PowerShell supports system administration and automation.
+- Unknown scripts should be inspected before execution.
+- Execution policies provide safeguards but are not a complete security boundary.
+- Administrative permissions should only be used when necessary.
+- Verifying commands before execution helps prevent accidental system changes.
+
+## 5. Conclusion
+The exercise improved my understanding of PowerShell administration, command discovery and basic security practices.
+
+**
