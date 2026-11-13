@@ -1,0 +1,57 @@
+# Exercise 02: Windows Account Security and Permissions Management
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand Windows account security, user permissions and access control, and learn how to protect company information from unauthorised access.
+
+## 2. Scenario Description
+A company discovered that employees had excessive permissions and were using a shared Administrator account.
+
+The IT department requested a security review to improve account management and restrict access to confidential information.
+
+## 3. Tools Used
+- Windows 11 Settings
+- User Account Management
+- Folder Properties
+- Security Tab
+- Windows Event Viewer
+
+## 4. Security Review Procedure
+1. Identified the risks associated with shared Administrator accounts.
+2. Recommended individual Standard User accounts for ordinary employees.
+3. Reviewed employee folder permissions.
+4. Identified excessive Full Control permissions.
+5. Recommended reducing permissions to Read where employees only needed to view documents.
+6. Used Event Viewer to investigate available account-related security events.
+7. Documented findings and proposed authorised security improvements.
+
+## 5. Results
+The simulated review identified several security weaknesses, including shared administrator access and excessive folder permissions.
+
+Recommended improvements included individual employee accounts, restricted administrator access and appropriate folder permissions.
+
+## 6. Security Considerations
+- Apply the principle of least privilege.
+- Avoid shared administrator accounts.
+- Protect confidential company information.
+- Review user permissions regularly.
+- Monitor relevant security events.
+- Document and verify authorised changes.
+
+## 7. Lessons Learned
+- Importance of individual user accounts.
+- Difference between Windows folder permissions.
+- How to identify excessive permissions.
+- Importance of Event Viewer in security investigations.
+- How to improve account security through access control.
+
+## 8. Conclusion
+This simulated exercise improved my understanding of Windows account security, folder permissions, access control and basic security monitoring.
+
+**Note:** This was a simulated training exercise. No actual company accounts or security permissions were modified.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
