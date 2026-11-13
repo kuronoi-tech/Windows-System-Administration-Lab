@@ -1,0 +1,41 @@
+# Exercise 07: Scenario 02 — Disk Partitions and Volumes
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Objective
+To understand how Windows organises storage using disk partitions, volumes and drive letters.
+
+## 2. Key Concepts
+
+- **Disk Partition:** A section of a physical storage disk.
+- **Volume:** A storage area that Windows can access and manage.
+- **Multiple Partitions:** A single physical disk can contain multiple partitions.
+- **Drive Letters:** Letters such as C: and D: help identify and access storage volumes.
+
+## 3. Practical Scenario
+An organisation needs to understand how its computer storage is organised before planning storage changes.
+
+The technician should identify the physical disks, understand their partitions and volumes, and recognise the drive letters assigned to accessible volumes.
+
+## 4. Data Protection
+Before making partition or volume changes, an IT technician should:
+- Back up important data.
+- Understand the purpose of each partition.
+- Check the proposed changes carefully.
+- Avoid modifying partitions without proper authorisation.
+
+## 5. Assessment Results
+- Question 1: B — Correct
+- Question 2: C — Correct
+- Question 3: A — Correct
+- Question 4: D — Correct
+- Question 5: B — Correct
+
+**Score: 5/5 (100%)**
+
+## 6. Conclusion
+This exercise improved my understanding of disk partitions, volumes and drive letters in Windows. I also learned why data protection is important before making storage changes.
+
+**Exercise Type:** Simulated training and knowledge assessment.  
+**Note:** No actual disk partitions or volumes were modified.
