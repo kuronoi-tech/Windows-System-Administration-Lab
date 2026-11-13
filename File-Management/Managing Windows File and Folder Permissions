@@ -1,0 +1,38 @@
+# Exercise 04: Managing Windows File and Folder Permissions
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand Windows file and folder permissions and how administrators control access to shared resources.
+
+## 2. Scenario Description
+An organisation needed to manage access to a shared department folder. Some employees required viewing permissions, while others needed permission to create, edit and delete documents.
+
+The administrator also needed to investigate unauthorised folder access.
+
+## 3. Tools Used
+- Windows 11 File Explorer
+- Folder Properties
+- Security Tab
+- NTFS Permissions
+
+## 4. Procedure
+1. Identified the folder requiring access control.
+2. Reviewed the available Windows permissions.
+3. Distinguished between Read, Write, Modify and Full Control.
+4. Examined how permissions can be inherited from parent folders.
+5. Inspected the Security tab to identify users and groups with access.
+6. Identified the importance of removing unnecessary permissions.
+7. Applied the principle of least privilege when considering access requirements.
+
+## 5. Results
+The simulated exercise demonstrated how Windows controls access to files and folders through NTFS permissions.
+
+It also established the importance of checking inherited permissions and reviewing user and group access when investigating unauthorised access.
+
+## 6. Lessons Learned
+- Different Windows file and folder permissions.
+- How permission inheritance works.
+- How
