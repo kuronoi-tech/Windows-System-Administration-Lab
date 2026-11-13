@@ -1,0 +1,41 @@
+# Exercise 05: Command Prompt Administration and Practical Usage
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Introduction
+This exercise covers basic Command Prompt administration and practical commands used in Windows system management.
+
+**Note:** This was a simulated training exercise. No actual administrative changes were performed.
+
+## 2. Objectives
+- Understand the purpose of elevated Command Prompt permissions.
+- Identify basic Command Prompt administration commands.
+- Understand output redirection.
+- Identify commands for viewing users, dates and running processes.
+
+## 3. Commands and Concepts
+
+| Command / Symbol | Purpose |
+|---|---|
+| `Run as administrator` | Opens Command Prompt with elevated permissions. |
+| `>` | Redirects command output into a file. |
+| `&&` | Runs another command if the previous command succeeds. |
+| `date` | Displays or changes the system date. |
+| `whoami` | Displays the current username. |
+| `tasklist` | Displays running processes. |
+
+## 4. Key Lessons
+- Administrative permissions should only be used when necessary and authorised.
+- User Account Control (UAC) helps prevent unauthorised administrative changes.
+- Command output can be saved into text files for documentation.
+- Command Prompt provides useful tools for basic Windows administration.
+
+## 5. Conclusion
+The exercise improved my understanding of Command Prompt administration and common commands used to manage and inspect a Windows computer.
+
+**Exercise status:** Completed  
+**Assessment score:** 4/5  
+**Overall Exercise 05 score:** 21/25 (84%)
+
+**Training classification:** Simulated practical exercise.
