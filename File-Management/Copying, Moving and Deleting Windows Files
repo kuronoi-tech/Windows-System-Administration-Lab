@@ -1,0 +1,46 @@
+# Exercise 03: Copying, Moving and Deleting Windows Files
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand how to copy, move, delete and recover files using Windows File Explorer.
+
+## 2. Scenario Description
+An employee needed assistance organising company documents, creating duplicate files for backup purposes and recovering an accidentally deleted document.
+
+## 3. Tools Used
+- Windows 11 File Explorer
+- Recycle Bin
+- Keyboard Shortcuts
+- File Management
+
+## 4. Procedure
+1. Identified the documents requiring duplication.
+2. Used Copy and Paste to create duplicate files.
+3. Used Cut and Paste to move misplaced documents.
+4. Checked the Recycle Bin for an accidentally deleted document.
+5. Identified that Shift + Delete normally bypasses the Recycle Bin.
+6. Verified the destination folder and checked file accessibility.
+7. Documented the operations and recovery findings.
+
+## 5. Results
+The simulated exercise demonstrated how to duplicate and move files and how to recover normally deleted files through the Recycle Bin.
+
+It also established that files deleted using Shift + Delete may require another recovery method.
+
+## 6. Lessons Learned
+- Difference between copying and moving files.
+- How to recover files through Recycle Bin.
+- Difference between normal deletion and Shift + Delete.
+- Importance of verifying file operations.
+- Importance of maintaining backups.
+
+## 7. Conclusion
+This simulated exercise improved my understanding of Windows file management, deletion and basic file recovery procedures.
+
+**Note:** This was a simulated training exercise. No actual company files were deleted, moved or recovered.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
