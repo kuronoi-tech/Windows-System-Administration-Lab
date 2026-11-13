@@ -1,0 +1,47 @@
+# Exercise 03: Windows Service Startup Types and Configuration
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand Windows service startup types and how administrators configure services using Services Manager.
+
+## 2. Scenario Description
+An organisation needed to configure Windows services so that important services could start automatically while other services would only start when required.
+
+The IT administrator needed to understand the different startup types and their purposes.
+
+## 3. Tools Used
+- Windows 11
+- Services Manager (`services.msc`)
+- Windows Service Properties
+
+## 4. Procedure
+1. Opened Services Manager.
+2. Identified the available service startup types.
+3. Examined the purpose of Automatic startup.
+4. Examined Automatic (Delayed Start).
+5. Reviewed the purpose of Manual startup.
+6. Identified how Disabled prevents a service from starting normally.
+7. Reviewed how to change startup types through the service Properties window.
+8. Considered the importance of checking service dependencies before making configuration changes.
+
+## 5. Results
+The simulated exercise demonstrated the differences between Windows service startup types and how administrators configure them.
+
+## 6. Lessons Learned
+- Meaning of Automatic startup.
+- Purpose of Automatic (Delayed Start).
+- Difference between Manual and Disabled.
+- How to access service Properties.
+- How to configure startup types.
+- Importance of understanding service dependencies.
+
+## 7. Conclusion
+This simulated exercise improved my understanding of Windows service configuration and how startup settings affect system functionality.
+
+**Note:** This was a simulated training exercise. No actual Windows service configurations were changed.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
