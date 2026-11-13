@@ -1,0 +1,47 @@
+# Exercise 02: Starting, Stopping and Restarting Windows Services
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand how to start, stop and restart Windows services using Services Manager.
+
+## 2. Scenario Description
+An employee reported that Windows Audio was not working correctly. The IT administrator suspected that the Windows Audio service had stopped responding and needed to investigate the issue.
+
+## 3. Tools Used
+- Windows 11
+- Services Manager (`services.msc`)
+- Windows Audio Service
+
+## 4. Procedure
+1. Opened Services Manager.
+2. Located the Windows Audio service.
+3. Reviewed the service status.
+4. Identified the difference between Start, Stop and Restart commands.
+5. Examined the importance of administrative permissions when managing services.
+6. Identified restarting the affected service as a possible troubleshooting action.
+7. Confirmed that the service status and audio functionality should be tested after restarting.
+8. Documented the troubleshooting findings.
+
+## 5. Results
+The simulated exercise demonstrated how administrators can manage Windows services using Start, Stop and Restart commands.
+
+It also highlighted the importance of administrative permissions and verifying functionality after troubleshooting.
+
+## 6. Lessons Learned
+- How to start stopped Windows services.
+- How to stop running services.
+- How to restart services.
+- Importance of administrative permissions.
+- Importance of testing after troubleshooting.
+- Importance of documenting maintenance activities.
+
+## 7. Conclusion
+This simulated exercise improved my understanding of Windows service management and basic troubleshooting procedures.
+
+**Note:** This was a simulated training exercise. No actual Windows services were changed.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
