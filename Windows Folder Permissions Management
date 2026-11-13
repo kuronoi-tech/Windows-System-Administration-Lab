@@ -1,0 +1,64 @@
+# Exercise 02: Windows Folder Permissions Management
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+
+To understand Windows folder permissions and learn how to manage user access to files and folders securely.
+
+## 2. Scenario Description
+
+An employee reported being unable to access the company's Finance folder. Other employees could access the folder successfully.
+
+The simulated investigation identified insufficient permissions as the likely cause.
+
+## 3. Tools Used
+
+- Windows File Explorer
+- Folder Properties
+- Security tab
+- Windows User Accounts
+
+## 4. Investigation Procedure
+
+1. Checked the employee's account permissions.
+2. Opened the Finance folder properties.
+3. Inspected the Security tab.
+4. Reviewed the permissions assigned to users and groups.
+5. Identified the need for appropriate Write or Modify permissions.
+6. Confirmed the employee's authorisation before making changes.
+
+## 5. Proposed Solution
+
+The employee would receive the minimum permissions necessary to perform their authorised duties.
+
+Modify permission would be appropriate if creating, editing and deleting files were all required. Otherwise, a more restricted permission combination should be considered.
+
+## 6. Verification
+
+The following tests were identified:
+
+- Sign in using the employee's account.
+- Open the Finance folder.
+- Test authorised file operations.
+- Confirm that unauthorised actions remain restricted.
+- Obtain employee confirmation.
+
+## 7. Lessons Learned
+
+- Understand Windows folder permissions.
+- Distinguish Read, Write, Modify and Full Control.
+- Apply the principle of least privilege.
+- Confirm authorisation before changing permissions.
+- Test access after configuration changes.
+
+## 8. Conclusion
+
+This simulated exercise improved my understanding of Windows file permissions, access control and secure folder management.
+
+**Note:** This was a simulated training exercise. No actual company folder permissions were modified.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
