@@ -1,0 +1,38 @@
+# Exercise 06: Scenario 04 — PowerShell System Information and Monitoring
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Introduction
+This exercise covers the use of PowerShell commands to retrieve computer information, inspect network configuration and monitor storage resources.
+
+**Note:** This was a simulated training exercise. No actual system configuration changes were performed.
+
+## 2. Objectives
+- Retrieve detailed Windows system information.
+- Identify the computer name.
+- Inspect network IP configuration.
+- View disk volume information.
+- Understand the importance of system monitoring.
+
+## 3. Commands Covered
+
+| Command | Purpose |
+|---|---|
+| `Get-ComputerInfo` | Displays detailed computer information. |
+| `$env:COMPUTERNAME` | Displays the computer name. |
+| `Get-NetIPConfiguration` | Displays network IP configuration. |
+| `Get-Volume` | Displays disk volume information. |
+
+## 4. Key Lessons
+- System information helps technicians understand computer configurations.
+- Network configuration details assist in troubleshooting connectivity.
+- Disk monitoring helps identify storage limitations.
+- Regular system monitoring helps detect performance issues and potential problems.
+
+## 5. Conclusion
+The exercise improved my understanding of using PowerShell to inspect Windows system information, network settings and storage resources.
+
+**Scenario status:** Completed  
+**Assessment score:** 5/5  
+**Training classification:** Simulated practical exercise.
