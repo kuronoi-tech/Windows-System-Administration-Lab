@@ -1,0 +1,50 @@
+# Exercise 03: File and Directory Management Using Command Prompt
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
+
+## 1. Objective
+To understand Command Prompt commands used to copy, move, rename and remove files and directories.
+
+## 2. Scenario
+An IT support technician needs to organise files and folders using Windows Command Prompt.
+
+This was a simulated training exercise.
+
+## 3. Commands Learned
+
+| Command | Function |
+|---|---|
+| `copy` | Copies files |
+| `move` | Moves files or directories |
+| `ren` | Renames files or directories |
+| `del` | Deletes files |
+| `rmdir` | Removes directories |
+| `mkdir` | Creates directories |
+
+## 4. Practical Procedure
+1. Open Command Prompt.
+2. Use `copy` to duplicate a sample file.
+3. Use `move` to transfer a sample file into another folder.
+4. Use `ren` to change a sample file's name.
+5. Use `del` to remove an unwanted sample file.
+6. Use `rmdir` to remove an empty sample directory.
+7. Verify the directory contents after each operation.
+
+## 5. Results
+The exercise demonstrated the purpose of basic file and directory management commands in Windows Command Prompt.
+
+The results are based on simulated training scenarios. No actual file deletion or modification results are claimed.
+
+## 6. Lessons Learned
+- `copy` creates a duplicate of a file.
+- `move` transfers files between locations.
+- `ren` changes file or folder names.
+- `del` removes files.
+- `rmdir` removes empty directories.
+- Commands that delete files or folders should be used carefully.
+
+## 7. Conclusion
+This exercise improved my understanding of command-line file management and demonstrated how Command Prompt can support basic Windows administration tasks.
+
+**Note:** This was a simulated training exercise.
