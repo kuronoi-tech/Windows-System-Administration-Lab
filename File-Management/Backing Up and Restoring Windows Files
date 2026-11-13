@@ -1,0 +1,45 @@
+# Exercise 05: Backing Up and Restoring Windows Files
+
+**Project:** Windows System Administration Lab  
+**Author:** kuronoi  
+**Status:** Completed (Simulated Practical Exercise)
+
+## 1. Objective
+To understand how to create backups, verify backed-up data and restore missing files in Windows 11.
+
+## 2. Scenario Description
+An employee had important departmental documents stored on a Windows computer. Before system maintenance, an IT administrator needed to create a backup. After maintenance, one document was discovered missing and needed to be restored.
+
+## 3. Tools Used
+- Windows 11 File Explorer
+- External Storage Device
+- Cloud Storage
+- Backup and Restore Procedures
+
+## 4. Procedure
+1. Identified important documents requiring backup.
+2. Selected a separate external storage device or approved cloud storage as the backup location.
+3. Copied the required documents to the backup location.
+4. Verified that the backed-up files existed and were complete.
+5. Checked that sample documents could be opened.
+6. Located the missing document in the verified backup.
+7. Restored the document to its appropriate location.
+8. Verified the restored document and documented the process.
+
+## 5. Results
+The simulated exercise demonstrated the importance of creating separate backups, verifying stored files and restoring missing documents from available backups.
+
+## 6. Lessons Learned
+- Importance of regular backups.
+- Different backup storage locations.
+- How to verify backup integrity.
+- How to restore missing files.
+- Importance of documenting backup and recovery activities.
+
+## 7. Conclusion
+This simulated exercise improved my understanding of Windows backup and recovery procedures. It demonstrated how proper backup practices help protect important information and support data recovery.
+
+**Note:** This was a simulated training exercise. No actual company data was backed up or restored.
+
+**Author:** kuronoi  
+**Project:** Windows System Administration Lab
